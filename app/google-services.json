@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059073320085",
+    "project_id": "sharethoughts-34ba7",
+    "storage_bucket": "sharethoughts-34ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059073320085:android:85f3fad6d4e8a0d6e7279c",
+        "android_client_info": {
+          "package_name": "com.example.sharethoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059073320085-g60puvb7pq09v7ogt77vn3lbhgpql9ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-5ByY30I76e989zPh_7tiN7-ZuCWz94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059073320085-g60puvb7pq09v7ogt77vn3lbhgpql9ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
